@@ -25,7 +25,7 @@ cd Faraday-Rotation
 
 cd FR
 
-juoyter notebook faraday-rotation.ipynb
+jupyter notebook faraday-rotation.ipynb
 
 
 
