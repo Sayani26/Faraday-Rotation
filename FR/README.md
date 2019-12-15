@@ -22,6 +22,7 @@ git clone https://github.com/Sayani26/Faraday-Rotation.git
 Then open the notebook. Type,
 
 cd Faraday-Rotation
+
 cd FR
 
 juoyter notebook faraday-rotation.ipynb
